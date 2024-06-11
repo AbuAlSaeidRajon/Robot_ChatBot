@@ -28,4 +28,4 @@ Welcome to the Robot Chat Bot project! This is a virtual assistant web applicati
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/robot-chat-bot.git
+   git clone https://github.com/AbuAlSaeidRajon/Robot_ChatBot.git
