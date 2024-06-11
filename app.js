@@ -26,7 +26,7 @@ function wishMe() {
 }
 
 window.addEventListener('load', () => {
-    speak("Initializing JARVIS...");
+    speak("Initializing ROBOT...");
     wishMe();
 });
 
